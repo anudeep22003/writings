@@ -7,3 +7,14 @@ Today
 
 Tomorrow
 - Finish the tutorial, and start implementing a conversational id based routing in Sidebrain. Also research how you are going to be implementing authentication. 
+
+
+## Wed 22 May 2024
+
+Today
+- Finished the react-router tutorial. Improved my mental model of how routing works, how to accomplish some complex routing strategies. That said, I can't help but feel like my learning is like that word that is perfect for the point you are trying to make, and you swear you know it but cannot remember it. My mental model for this is at the tip of my mind. I think writing about the various hooks in my own language will help deepen my understanding. 
+- Built out a basic UI for the login screens. I find myself getting overwhelmed by the complexity of implementing auth. I need to understand every aspect before starting to code. Rather it is important to start building, and figure out the complexity in v1.1, the first iteration. 
+
+Tomorrow:
+- Write out your understanding of the react-router hooks
+- Implement a working login experience using Google Login
