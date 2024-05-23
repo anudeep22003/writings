@@ -18,3 +18,15 @@ Today
 Tomorrow:
 - Write out your understanding of the react-router hooks
 - Implement a working login experience using Google Login
+
+
+## Thurs 23 May 2024
+
+Today
+- Was overwhelmed by authentication. I got a basic version up that acts as a gate but i am not satisfied with it. I got confused by the client and server part and thought that I had to do part of the things in react and part on the python backend. That led me down a rabbit hole to understand about JWT tokens, how auth works (a developing mystery) and how server side components and next work. I now have a better understanding of what NExt does, and think its cool that they specialize in rendering server side components. I think Next is react + SSR, made easy. 
+- On the topic of auth itself, I think I will have to write a express server on the frontend to handle the server side of things. Apparently its called Backed for Frontend (BFF) pattern. I still don't know if thats the most efficient thing to do, or the right way to do implement things. 
+- Concerned that tomorrow is launch day and I still havent implemented auth much.
+
+Tomorrow
+- Implement an express server. Take a decision in the first 30 minutes and stick with it, dont get sidetracked. Implement it and then wonder whether that was the best approach. You need to be writing a lot more code and doing a lot less thinking. 
+- Dont worry about getting back on the apps, it isnt an experience you can control. Accept it, treat it as an experiment and incorporate into the next experiment. 
