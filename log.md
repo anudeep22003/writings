@@ -30,3 +30,14 @@ Today
 Tomorrow
 - Implement an express server. Take a decision in the first 30 minutes and stick with it, dont get sidetracked. Implement it and then wonder whether that was the best approach. You need to be writing a lot more code and doing a lot less thinking. 
 - Dont worry about getting back on the apps, it isnt an experience you can control. Accept it, treat it as an experiment and incorporate into the next experiment. 
+
+
+## Fri 24 May 2024
+
+Today:
+- Wrote a lot more code than yesterday. Made progress on implementing auth with heavy lifting by the backend and got it to work partly. Stuck without a resolution on getting the callback to come directly to my server, the supabase part is working well, the redirect is all kinds of messed up. 
+- Realized part way through that I am not going to be able to get a release if I work on auth, so switched to integrating a new model. I added Claude from anthropic and their performace is good. 
+
+Tomorrow:
+- Finish off auth, and do a formal staginng puh 
+- write that fictional story on madness and bitter truth 
